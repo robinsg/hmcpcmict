@@ -1,0 +1,7 @@
+debug
+__pycache__
+*.csv	
+*.html
+*.csv
+*.tar
+*.zip
